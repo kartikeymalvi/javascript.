@@ -1,0 +1,55 @@
+{
+  "students": [
+    {
+      "rollno": 1,
+      "name": "kartikey",
+      "city": "bhopal"
+    },
+    {
+      "rollno": 2,
+      "name": "aman",
+      "city": "bhopal"
+    },
+    {
+      "rollno": 3,
+      "name": "akshay",
+      "city": "bhopal"
+    },
+    {
+      "rollno": 4,
+      "name": "lala",
+      "city": "bhopal"
+    },
+    {
+      "rollno": 5,
+      "name": "harsh",
+      "city": "bhopal"
+    },
+    {
+      "rollno": 6,
+      "name": "salmon",
+      "city": "bhopal"
+    },
+    {
+      "rollno": 7,
+      "name": "vivek",
+      "city": "bhopal"
+    },
+    {
+      "rollno": 8,
+      "name": "harsh",
+      "city": "bhopal"
+    },
+    {
+      "rollno": 9,
+      "name": "praveen",
+      "city": "bhopal"
+    },
+      {
+      "rollno": 10,
+      "name": "nikhil",
+      "city": "bhopal"
+    }
+
+  ]
+}
