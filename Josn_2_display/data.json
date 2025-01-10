@@ -1,0 +1,38 @@
+  { "details":
+    
+        
+            [
+                {
+            "name":"kartikey malviya",
+             "age":25,
+             "gender":"male",
+              "contact":9406392629
+                },
+                     {
+            "name":"Dhruv Sivhare",
+             "age":22,
+             "gender":"male",
+              "contact":9406392629
+                },
+                     {
+            "name":"Anuj yadav",
+             "age":25,
+             "gender":"male",
+              "contact":9406392629
+                },
+                     {
+            "name":"harsh gupt",
+             "age":25,
+             "gender":"male",
+              "contact":9406392629
+                },
+                     {
+            "name":"sankalp tiwari",
+             "age":25,
+             "gender":"male",
+              "contact":9406392629
+                }
+            ]
+        
+    
+    }

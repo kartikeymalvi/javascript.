@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "554f"
+    },
+    {
+      "id": "7636",
+      "rollno": "121",
+      "name": "Kartikey Malvi",
+      "city": "indore",
+      "fees": "45000"
+    },
+    {
+      "id": "e51e",
+      "rollno": "122",
+      "name": "kamlesh",
+      "city": "bhopal",
+      "fees": "0"
+    },
+    {
+      "id": "bb87",
+      "rollno": "121",
+      "name": "Kartikey Malvi",
+      "city": "bhopal",
+      "fees": "45000"
+    }
+  ]
+}
