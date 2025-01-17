@@ -34,6 +34,13 @@
       "city": "jabalpur",
       "fees": "68900",
       "id": "78"
+    },
+    {
+      "id": "1972",
+      "rollno": "121",
+      "name": "kartikey malviya",
+      "city": "bhopal",
+      "fees": "12321"
     }
   ]
 }
